@@ -7,7 +7,7 @@ The delivery bill is produced at an excel sheet in delivery bills directory.
 
 # STTING UP IN YOUR PC
 
-In billing.py at delivery billing directory file search for <PC usr name> in the whole file and change it to the USER NAME in your pc.
+In billing.py at delivery billing directory file search for "<PC usr name>" in the whole file and change it to the USER NAME in your pc.
   
 Copy the "delivery bills" directory to your PC's desktop and "delivery billing" directory to your D:/ drive
 
