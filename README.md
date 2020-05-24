@@ -29,3 +29,5 @@ NOTE :
 #**Important note this program reqires Python 3.5+ and make sure that you have installed all the required modules from pip**
 
 #**If you are running pyton 2.x check my another repository delivery-billing_2.0**
+
+# FOR ANY SUPPORT OR ASSISTANCE CONTACT ME VIA EMAIL : er.sanjeev.au@gmail.com
