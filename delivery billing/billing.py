@@ -67,7 +67,7 @@ while(True):
     option = input("Pick the desired option : ").strip()
     if option.lower() == "n":
       break
-    if(option<"1")or(option>"8"):
+    if(int(option)<1)or(int(option)>8):
       print(i+"\nPick the correct option\n")
       continue
     sleep(1)
